@@ -1,8 +1,8 @@
 {
-  "name": "@tinijs/bare-starter",
-  "version": "0.0.0",
   "private": true,
-  "description": "The minimum structure of a TiniJS app.",
+  "name": "@tinijs/bare-starter",
+  "version": "0.17.0-pre",
+  "description": "The bare starter.",
   "author": "Nhan Lam",
   "homepage": "https://tinijs.dev",
   "license": "MIT",
@@ -15,7 +15,8 @@
     "build": "tini build",
     "preview": "tini preview",
     "lint": "gts lint",
-    "fix": "gts fix"
+    "fix": "gts fix",
+    "release": "changelogen --release --push"
   },
   "dependencies": {
     "@tinijs/core": "^0.17.0",
@@ -25,6 +26,7 @@
   "devDependencies": {
     "@tinijs/cli": "^0.17.0",
     "@tinijs/vite-builder": "^0.17.0",
+    "changelogen": "^0.5.5",
     "gts": "^5.3.0",
     "typescript": "~5.4.5",
     "vite": "^5.2.8"
