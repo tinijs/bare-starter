@@ -7,4 +7,5 @@ node_modules
 .output
 .ui
 .content
-tini-content
+**/public/tini-content
+**/public/sw.js
