@@ -1,10 +1,10 @@
-# TiniJS Bare Starter 
+# Bare Template 
 
-The minimum structure of a TiniJS app.
+The bare starter template.
 
 ## Install
 
-- Via the CLI: `npx @tinijs/cli new my-app --latest`
+- Via the CLI: `npx @tinijs/cli@latest new my-app`
 
 - Or, download this repo and run `npm i`.
 
@@ -14,8 +14,8 @@ The minimum structure of a TiniJS app.
 - Run `npm run build` to build the app and optionally `npm run preview` to preview the production build.
 - Deploy the `.output` folder to any static server.
 
-For more information, please visit <https://tinijs.dev>.
+For more details, please visit <https://tinijs.dev>.
 
 ## License
 
-The **Bare starter** is released under the [MIT](./LICENSE) license.
+Released under the [MIT](./LICENSE) license.

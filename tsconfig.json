@@ -3,12 +3,15 @@
   "compilerOptions": {
     "module": "NodeNext",
     "target": "ESNext",
-    "lib": ["ESNext", "DOM"],
+    "lib": ["ESNext", "DOM", "WebWorker"],
     "experimentalDecorators": true,
     "useDefineForClassFields": false,
     "isolatedModules": true,
     "verbatimModuleSyntax": true,
     "skipLibCheck": true
   },
-  "include": ["**/*"]
+  "include": [
+    ".app/**/*",
+    "**/*"
+  ]
 }
