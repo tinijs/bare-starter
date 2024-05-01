@@ -20,13 +20,13 @@
     "release": "changelogen --release --push"
   },
   "dependencies": {
-    "@tinijs/core": "^0.17.0",
-    "@tinijs/project": "^0.17.0",
+    "@tinijs/core": "^0.18.0",
+    "@tinijs/project": "^0.18.0",
     "lit": "^3.1.2"
   },
   "devDependencies": {
-    "@tinijs/cli": "^0.17.0",
-    "@tinijs/vite-builder": "^0.17.0",
+    "@tinijs/cli": "^0.18.0",
+    "@tinijs/vite-builder": "^0.18.1",
     "changelogen": "^0.5.5",
     "gts": "^5.3.0",
     "typescript": "~5.4.5",
