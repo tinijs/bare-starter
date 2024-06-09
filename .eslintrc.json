@@ -6,6 +6,8 @@
     }]
   },
   "ignorePatterns": [
-    "**/server/public"
+    "app/ui",
+    "app/public/sw.js",
+    "server/public"
   ]
 }

@@ -1,11 +1,11 @@
+# general
 .DS_Store
 node_modules
 
+# app
 .parcel-cache
 .tini
-.app
 .output
-.ui
-.content
-**/public/tini-content
-**/public/sw.js
+app/ui
+app/public/tini-content
+app/public/sw.js
