@@ -1,6 +1,10 @@
 # Changelog
 
 
+## v0.20.0
+
+[compare changes](https://github.com/tinijs/bare-starter/compare/v0.20.0-pre...v0.20.0)
+
 ## v0.18.0
 
 [compare changes](https://github.com/tinijs/bare-starter/compare/v0.17.0...v0.18.0)
