@@ -20,17 +20,17 @@
     "release": "changelogen --release --push"
   },
   "dependencies": {
-    "@tinijs/core": "^0.19.0",
-    "@tinijs/project": "^0.19.0",
-    "lit": "^3.1.2"
+    "@tinijs/core": "^0.20.0",
+    "@tinijs/project": "^0.20.0",
+    "lit": "^3.1.4"
   },
   "devDependencies": {
-    "@tinijs/cli": "^0.19.1",
-    "@tinijs/vite-builder": "^0.19.0",
+    "@tinijs/cli": "^0.20.0",
+    "@tinijs/vite-builder": "^0.20.0",
     "changelogen": "^0.5.5",
     "gts": "^5.3.0",
     "typescript": "~5.4.5",
-    "vite": "^5.2.8",
-    "vitest": "^1.5.2"
+    "vite": "^5.2.13",
+    "vitest": "^1.6.0"
   }
 }
