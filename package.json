@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@tinijs/bare-starter",
-  "version": "0.20.0",
+  "version": "0.21.0-pre",
   "description": "The bare starter.",
   "author": "Nhan Lam",
   "homepage": "https://tinijs.dev",
@@ -20,13 +20,13 @@
     "release": "changelogen --release --push"
   },
   "dependencies": {
-    "@tinijs/core": "^0.20.0",
-    "@tinijs/project": "^0.20.0",
+    "@tinijs/core": "^0.21.0",
+    "@tinijs/project": "^0.21.0",
     "lit": "^3.1.4"
   },
   "devDependencies": {
-    "@tinijs/cli": "^0.20.0",
-    "@tinijs/vite-builder": "^0.20.0",
+    "@tinijs/cli": "^0.21.0",
+    "@tinijs/vite-builder": "^0.21.0",
     "changelogen": "^0.5.5",
     "gts": "^5.3.0",
     "typescript": "~5.4.5",
